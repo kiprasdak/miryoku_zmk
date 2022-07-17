@@ -114,11 +114,17 @@ U_NP,              U_NP,              &lt U_MEDIA ESC,   &lt U_NAV SPC,     &lt 
 &lt U_BUTTON Z,    &hm RALT X,        &kp M,             &kp C,             &kp V,             &kp K,             &kp L,             &kp COMMA,         &hm RALT DOT,      &lt U_BUTTON SLASH,\
 U_NP,              U_NP,              &lt U_MEDIA ESC,   &lt U_NAV SPC,     &lt U_MOUSE TAB,   &lt U_SYM RET,     &lt U_NUM BSPC,    &lt U_FUN DEL,     U_NP,              U_NP
 
+// #define MIRYOKU_ALTERNATIVES_BASE_QWERTY \
+// &kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             \
+// &hm LGUI A,        &hm LALT S,        &hm LCTRL D,       &hm LSHFT F,       &kp G,             &kp H,             &hm LSHFT J,       &hm LCTRL K,       &hm LALT L,        &hm LGUI SQT,      \
+// &lt U_BUTTON Z,    &hm RALT X,        &kp C,             &kp V,             &kp B,             &kp N,             &kp M,             &kp COMMA,         &hm RALT DOT,      &lt U_BUTTON SLASH,\
+// U_NP,              U_NP,              &lt U_MEDIA ESC,   &lt U_NAV SPC,     &lt U_MOUSE TAB,   &lt U_SYM RET,     &lt U_NUM BSPC,    &lt U_FUN DEL,     U_NP,              U_NP
+
 #define MIRYOKU_ALTERNATIVES_BASE_QWERTY \
-&kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp Y,             &kp U,             &kp I,             &kp O,             &kp P,             \
-&hm LGUI A,        &hm LALT S,        &hm LCTRL D,       &hm LSHFT F,       &kp G,             &kp H,             &hm LSHFT J,       &hm LCTRL K,       &hm LALT L,        &hm LGUI SQT,      \
-&lt U_BUTTON Z,    &hm RALT X,        &kp C,             &kp V,             &kp B,             &kp N,             &kp M,             &kp COMMA,         &hm RALT DOT,      &lt U_BUTTON SLASH,\
-U_NP,              U_NP,              &lt U_MEDIA ESC,   &lt U_NAV SPC,     &lt U_MOUSE TAB,   &lt U_SYM RET,     &lt U_NUM BSPC,    &lt U_FUN DEL,     U_NP,              U_NP
+&kp T,             &kp Q,             &kp W,             &kp E,             &kp R,             &kp U,             &kp I,             &kp O,             &kp P,                &kp Y, \
+&kp B,             &hm LGUI A,        &hm LALT S,        &hm LCTRL D,       &hm LSHFT F,       &hm LSHFT J,       &hm LCTRL K,       &hm LALT L,        &hm LGUI SQT,         &kp H, \
+&kp G,             &lt U_BUTTON Z,    &hm RALT X,        &kp C,             &kp V,             &kp M,             &kp COMMA,         &hm RALT DOT,      &lt U_BUTTON SLASH,   &kp N, \
+U_NP,              U_NP,              &lt U_MEDIA ESC,   &lt U_NAV SPC,     &lt U_MOUSE TAB,   &lt U_SYM RET,     &lt U_NUM BSPC,    &lt U_FUN DEL,     U_NP,                 U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_QWERTZ \
 &kp Q,             &kp W,             &kp E,             &kp R,             &kp T,             &kp Z,             &kp U,             &kp I,             &kp O,             &kp P,             \
