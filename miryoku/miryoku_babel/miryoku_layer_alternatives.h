@@ -121,9 +121,9 @@ U_NP,              U_NP,              &lt U_MEDIA ESC,   &lt U_NAV SPC,     &lt 
 // U_NP,              U_NP,              &lt U_MEDIA ESC,   &lt U_NAV SPC,     &lt U_MOUSE TAB,   &lt U_SYM RET,     &lt U_NUM BSPC,    &lt U_FUN DEL,     U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_QWERTY \
-&kp T,             &kp Q,             &kp W,             &kp E,             &kp R,             &kp U,             &kp I,             &kp O,             &kp P,                &kp Y, \
-&kp B,             &hm LGUI A,        &hm LALT S,        &hm LCTRL D,       &hm LSHFT F,       &hm LSHFT J,       &hm LCTRL K,       &hm LALT L,        &hm LGUI SQT,         &kp H, \
-&kp G,             &lt U_BUTTON Z,    &hm RALT X,        &kp C,             &kp V,             &kp M,             &kp COMMA,         &hm RALT DOT,      &lt U_BUTTON SLASH,   &kp N, \
+&kp T,             &kp Q,             &kp W,             &kp E,             &kp R,             &kp U,             &kp I,             &kp O,             &kp P,                &kp Y,        \
+&kp Z,             &hm LGUI A,        &hm LALT S,        &hm LCTRL D,       &hm LSHFT F,       &hm LSHFT J,       &hm LCTRL K,       &hm RALT L,        &hm LGUI H,           &kp SQT,      \
+&kp X,             &kp G,             &hm B,             &kp C,             &kp V,             &kp N,             &kp M,             &hm COMMA,         &kp DOT,              &kp SLASH,    \
 U_NP,              U_NP,              &lt U_MEDIA ESC,   &lt U_NAV SPC,     &lt U_MOUSE TAB,   &lt U_SYM RET,     &lt U_NUM BSPC,    &lt U_FUN DEL,     U_NP,                 U_NP
 
 #define MIRYOKU_ALTERNATIVES_BASE_QWERTZ \
