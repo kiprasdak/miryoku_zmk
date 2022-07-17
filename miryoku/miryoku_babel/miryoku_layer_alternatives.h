@@ -355,7 +355,7 @@ U_NP,              U_NP,              U_NA,              U_NA,              U_NA
 #define MIRYOKU_ALTERNATIVES_MEDIA \
 &bt BT_CLR,        U_NA,              &u_bt_sel_0,       U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,             \
 &bt BT_NXT,        &u_bt_sel_4,       &u_bt_sel_3,       &u_bt_sel_2,       &u_bt_sel_1,       &kp C_PREV,        &kp C_VOL_DN,      &kp C_VOL_UP,      &kp C_NEXT,        &u_ep_tog,        \
-&bt BT_PRV,        U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              &bootloader,       &reset,              &u_out_tog,     \
+&bt BT_PRV,        U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              U_NA,              &bootloader,       &reset,            &u_out_tog,       \
 U_NP,              U_NP,              U_NA,              &bootloader,       &reset,            &kp C_STOP,        &kp C_PP,          &kp C_MUTE,        U_NP,              U_NP
 
 #define MIRYOKU_ALTERNATIVES_NUM_FLIP \
