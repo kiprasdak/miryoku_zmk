@@ -1,0 +1,7 @@
+# Copyright 2022 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=kiprasdak/zmk
+outboard_ref=wing36
+outboard_from=app/boards/shields/wing36
+outboard_to=boards/shields/wing36
